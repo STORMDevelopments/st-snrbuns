@@ -8,4 +8,4 @@ https://www.storm-developments.com
 https://discord.gg/storm-dev
 
 # DOCUMENTATION
-[https://zf-labo.gitbook.io/docs/](https://docs.storm-developments.com/)
+https://docs.storm-developments.com/
